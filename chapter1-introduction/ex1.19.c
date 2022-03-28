@@ -1,3 +1,4 @@
+/*func reverse the charecter string*/
 #include<stdio.h>
 #define MAXLINE 1000
 int func(char a[], int l);
