@@ -1,3 +1,4 @@
+/*sample*/
 #include<stdio.h>
 #define MAXLINE 1000
 int func(char a[], int l);
