@@ -1,3 +1,4 @@
+/* remove all comments from c program*/
 #include<stdio.h>
 
 int rmcmt(int c);
