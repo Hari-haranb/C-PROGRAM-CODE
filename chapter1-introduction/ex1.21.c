@@ -1,4 +1,5 @@
-#include<stdio.h>
+/*program entab that replace string of blanks by min num of tab &blanks to achive same space*/
+*#include<stdio.h>
 int main()
 {
     int b,t,pos,c;   
