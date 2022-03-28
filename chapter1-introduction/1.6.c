@@ -1,3 +1,4 @@
+/* number of occurrences of each digit*/
 #include<stdio.h>
 int main()
 {
