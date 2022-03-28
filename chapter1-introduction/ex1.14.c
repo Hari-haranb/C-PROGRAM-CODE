@@ -1,3 +1,4 @@
+/* histogram freq of input*/
 include<stdio.h>
 int main()
 {
