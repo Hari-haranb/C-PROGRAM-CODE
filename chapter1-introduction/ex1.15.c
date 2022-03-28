@@ -1,3 +1,4 @@
+/* temp conversion using function*/
 #include<stdio.h>
 int cel_to_fahr(int);
 int fahr_to_cel(int);
