@@ -1,3 +1,4 @@
+/* histogram of the lengths of words*/
 #include<stdio.h>
 int main()
 {
