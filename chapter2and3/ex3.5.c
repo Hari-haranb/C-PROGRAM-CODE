@@ -1,4 +1,4 @@
-
+/*convert integer to base itob*/
 #include<stdio.h>
 #include<string.h>
 
