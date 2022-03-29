@@ -1,3 +1,4 @@
+/* function itoa that accept 3 arg instead of 2*/
 #include<stdio.h>
 #include<string.h>
 
