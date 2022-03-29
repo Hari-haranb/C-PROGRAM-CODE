@@ -1,3 +1,4 @@
+/*program toremove trailing blanks and tabs from each lines of input &delete entire blank lines*/
 #include<stdio.h>
 #define max 1000
 int get(char line[],int lim);

@@ -1,3 +1,4 @@
+/*print the input to its output*/
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+/*program to print the all input lines that are longer than 80 lines*/
 #include<stdio.h>
 #define MAXLINE 1000
 int func(char a[], int l);

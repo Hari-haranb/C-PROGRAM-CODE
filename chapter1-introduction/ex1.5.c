@@ -1,3 +1,4 @@
+/* temp conversion proram reverse table*/
 #include<stdio.h>
 #define lower 0
 #define higher 300

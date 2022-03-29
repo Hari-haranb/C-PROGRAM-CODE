@@ -1,3 +1,4 @@
+/* basic getchar func*/
 #include<stdio.h>
 int main()
 {
