@@ -5,13 +5,8 @@ int main()
   printf("\n Please enter any num below 10 \n");
   scanf("%d", &number);
   do
-   {
-     for(;number<=0;)
-     {
-         break;
-     }
+  {
           total = total + number;
-
      printf(" Number = %d\n", number);
      printf(" Total Value is: %d\n", total); 
      number++;
